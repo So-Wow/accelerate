@@ -47,3 +47,21 @@ background: url("img/taxi-photo.jpg") no-repeat scroll right center / cover rgba
     color: #45ac9d;
     text-transform: uppercase;
 }
+
+
+/* Case Study Styles start here*/
+
+aside.case-study-sidebar {
+    float: left;
+    width: 33%;
+    margin-right: 2%;
+}
+
+div.case-study-images {
+    float: left;
+    width: 606px;
+}
+
+div.case-study-images img {
+    display: block;
+}
