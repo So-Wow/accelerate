@@ -48,6 +48,28 @@ background: url("img/taxi-photo.jpg") no-repeat scroll right center / cover rgba
     text-transform: uppercase;
 }
 
+.homepage-featured-work .section-title h4 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.homepage-featured-work ul {
+    list-style-type: none;
+    margin-left: 0;
+}
+
+.homepage-featured-work ul li {
+    width: 33%;
+    display: inline-block;
+    padding-right: 25px;
+    text-align: center;
+}
+
+.homepage-featured-work ul li h3 {
+    margin-top: 0;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
 
 /* Case Study Styles start here*/
 
